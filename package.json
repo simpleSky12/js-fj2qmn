@@ -1,0 +1,8 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "小程序登录及用户信息获取的异步处理": "*"
+  }
+}
